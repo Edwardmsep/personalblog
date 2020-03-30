@@ -2,3 +2,7 @@ Hola Mundo, soy Edward Sepulveda.
 Soy estudiante de ingenieria de software.
 Trabajo en CEDIMAT.
 Tengo 7 hermanos.
+
+Hola Mundo, Soy Alexander
+Soy Diseñador grafico.
+Trabajo en mi casa.
