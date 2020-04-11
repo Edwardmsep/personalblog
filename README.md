@@ -1,9 +1,16 @@
-# personalblog
-Un Blog personal para el curso de platzi
+# Edward Sepulveda
+Un blog hecho para el curso de Git y Github de Platzi
+>Este blog sera utilizado para practicar el curso de git y github. 
 
-Este es un blog personal para realizar pruebas en el cuso de git y github que estoy haciendo en la plataforma platzi.
+>Este curso es muy importante, ya que en la industria del software es necesario tener el conocimiento de los manejadores de versiones y es necesario para trabajar en equipo. 
 
-Estoy probando quien envia los cambios.
+>- Edward Sepulveda
 
+En este curso he aprendido: 
+* Comandos de Git
+* El flujo de trabajo en Github
+* Las buenas practica que se utilizan en la industria
+* Algunos trucos 
+* Entre otras cosas interesante
 
-En este proyecto colabore en los cambio en el pie de pagina.
+### Seguire aprendiendo!
