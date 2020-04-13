@@ -3,6 +3,8 @@ Soy estudiante de ingenieria de software.
 Trabajo en CEDIMAT.
 Tengo 7 hermanos.
 
+Master 1
+
 Hola Mundo, Soy Alexander
 Soy Diseñador grafico.
 Trabajo en mi casa.
