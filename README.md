@@ -14,8 +14,8 @@ Un blog hecho para el curso de Git y Github de Platzi
 * Entre otras cosas interesante
 
 ## Edward Sepulveda
-*Esto fue creado por Edward Sepulveda
-*Incluye configuracion de Windous, Linux y Mac
-*Es el mejor blog personal
+* Esto fue creado por Edward Sepulveda
+* Incluye configuracion de Windous, Linux y Mac
+* Es el mejor blog personal
 
 ### Seguire aprendiendo!
