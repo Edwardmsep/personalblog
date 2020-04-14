@@ -15,5 +15,6 @@ Un blog hecho para el curso de Git y Github de Platzi
 
 ## Edward Sepulveda
 *Esto fue creado por Edward Sepulveda
+*Incluye configuracion de Windous, Linux y Mac
 
 ### Seguire aprendiendo!
