@@ -6,11 +6,14 @@ Un blog hecho para el curso de Git y Github de Platzi
 
 >- Edward Sepulveda
 
-En este curso he aprendido: 
+## En este curso he aprendido: 
 * Comandos de Git
 * El flujo de trabajo en Github
 * Las buenas practica que se utilizan en la industria
 * Algunos trucos 
 * Entre otras cosas interesante
+
+## Edward Sepulveda
+*Esto fue creado por Edward Sepulveda
 
 ### Seguire aprendiendo!
